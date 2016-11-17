@@ -1,0 +1,210 @@
+nav {
+  width: 520px;
+  margin: auto; }
+  nav > div {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: inline-block; 
+    background-size: cover;
+    background-color: black;
+  }
+
+.zero {
+  background: black;
+  z-index: 0; }
+
+.tankDown1 {
+  background-image: url(../img/tankDown1.png);
+  z-index: 3; }
+
+.tankDown2 {
+  background-image: url(../img/tankDown2.png);
+  z-index: 3; }
+
+.tankDown3 {
+  background-image: url(../img/tankDown3.png);
+  z-index: 3; }
+
+.tankDown4 {
+  background-image: url(../img/tankDown4.png);
+  z-index: 3; }
+
+.tankLeft1 {
+  background-image: url(../img/tankLeft1.png);
+  z-index: 3; }
+
+.tankLeft2 {
+  background-image: url(../img/tankLeft2.png);
+  z-index: 3; }
+
+.tankLeft3 {
+  background-image: url(../img/tankLeft3.png);
+  z-index: 3; }
+
+.tankLeft4 {
+  background-image: url(../img/tankLeft4.png);
+  z-index: 3; }
+
+.tankRight1 {
+  background-image: url(../img/tankRight1.png);
+  z-index: 3; }
+
+.tankRight2 {
+  background-image: url(../img/tankRight2.png);
+  z-index: 3; }
+
+.tankRight3 {
+  background-image: url(../img/tankRight3.png);
+  z-index: 3; }
+
+.tankRight4 {
+  background-image: url(../img/tankRight4.png);
+  z-index: 3; }
+
+.tankUp1 {
+  background-image: url(../img/tankUp1.png);
+  z-index: 3; }
+
+.tankUp2 {
+  background-image: url(../img/tankUp2.png);
+  z-index: 3; }
+
+.tankUp3 {
+  background-image: url(../img/tankUp3.png);
+  z-index: 3; }
+
+.tankUp4 {
+  background-image: url(../img/tankUp4.png);
+  z-index: 3; }
+
+.bullet {
+  background-image: url(../img/bullet.png);
+  z-index: 4; }
+
+.bulletDown {
+  background-image: url(../img/bulletDown.png);
+  z-index: 4; }
+
+.bulletLeft {
+  background-image: url(../img/bulletLeft.png);
+  z-index: 4; }
+
+.bulletRight {
+  background-image: url(../img/bulletRight.png);
+  z-index: 4; }
+
+.bulletUp {
+  background-image: url(../img/bulletUp.png);
+  z-index: 4; }
+
+.brickWall {
+  background-image: url(../img/brickWall.png);
+  z-index: 5; }
+
+.steelWall {
+  background-image: url(../img/steelWall.png);
+  z-index: 5; }
+
+.trees {
+  background-image: url(../img/trees.png);
+  z-index: 5; }
+
+.base1 {
+  background-image: url(../img/base1.png);
+  z-index: 1; }
+
+.base2 {
+  background-image: url(../img/base2.png);
+  z-index: 1; }
+
+.base3 {
+  background-image: url(../img/base3.png);
+  z-index: 1; }
+
+.base4 {
+  background-image: url(../img/base4.png);
+  z-index: 1; }
+
+.baseHit1 {
+  background-image: url(../img/baseHit1.png);
+  z-index: 1; }
+
+.baseHit2 {
+  background-image: url(../img/baseHit2.png);
+  z-index: 1; }
+
+.baseHit3 {
+  background-image: url(../img/baseHit3.png);
+  z-index: 1; }
+
+.baseHit4 {
+  background-image: url(../img/baseHit4.png);
+  z-index: 1; }
+
+
+  .BotUp1 {
+  background-image: url(../img/BotUp1.png);
+  }
+
+  .BotUp2 {
+  background-image: url(../img/BotUp2.png);
+  }
+
+   .BotUp3 {
+  background-image: url(../img/BotUp3.png);
+  }
+
+  .BotUp4 {
+  background-image: url(../img/BotUp4.png);
+  }
+
+  .BotRight1 {
+  background-image: url(../img/BotRight1.png);
+  }
+
+  .BotRight2 {
+  background-image: url(../img/BotRight2.png);
+  }
+
+   .BotRight3 {
+  background-image: url(../img/BotRight3.png);
+  }
+
+  .BotRight4 {
+  background-image: url(../img/BotRight4.png);
+  }
+
+  .BotLeft1 {
+  background-image: url(../img/BotLeft1.png);
+  }
+
+  .BotLeft2 {
+  background-image: url(../img/BotLeft2.png);
+  }
+
+   .BotLeft3 {
+  background-image: url(../img/BotLeft3.png);
+  }
+
+  .BotLeft4 {
+  background-image: url(../img/BotLeft4.png);
+  }
+
+  .BotDown1 {
+  background-image: url(../img/BotDown1.png);
+  }
+
+  .BotDown2 {
+  background-image: url(../img/BotDown2.png);
+  }
+
+   .BotDown3 {
+  background-image: url(../img/BotDown3.png);
+  }
+
+  .BotDown4 {
+  background-image: url(../img/BotDown4.png);
+  }
